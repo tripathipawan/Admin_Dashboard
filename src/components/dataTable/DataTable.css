@@ -1,0 +1,66 @@
+.dataTable {
+  min-width: 250px;
+}
+
+.dataTable img {
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+
+.dataGrid {
+  background: white;
+  padding: 20px;
+}
+
+.MuiDataGrid-toolbarContainer {
+  flex-direction: row-reverse;
+}
+
+.action {
+  display: flex;
+  gap: 10px;
+}
+
+.action img {
+  width: 20px;
+  height: 20px;
+  cursor: pointer;
+}
+
+@media (min-width: 1024px) and (max-width:1440px) {
+  .dataTable {
+    width: 80vw;
+  }
+}
+
+@media (min-width: 601px) and (max-width:1023px) {
+  .dataTable {
+    width: 83vw;
+  }
+}
+
+@media (min-width: 427px) and (max-width:600px) {
+  .dataTable {
+    width: 80vw;
+  }
+}
+
+@media (min-width: 319px) and (max-width: 350px) {
+  .dataTable {
+    width: 250px
+  }
+}
+@media (min-width: 350px) and (max-width: 376px) {
+  .dataTable {
+    width: 280px
+  }
+}
+@media (min-width: 377px) and (max-width: 426px) {
+  .dataTable {
+    width: 310px
+  }
+} 
+
