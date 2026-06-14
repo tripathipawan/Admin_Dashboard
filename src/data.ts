@@ -738,6 +738,36 @@ export const products = [
     createdAt: "01.02.2023",
     inStock: true,
   },
+    {
+    id: 23,
+    img: "https://www.smartworld.it/wp-content/uploads/2019/09/High_Resolution_PNG-MX-Master-3-LEFT-GRAPHITE.png",
+    title: "Logitech MX Master 3",
+    color: "black",
+    producer: "Logitech",
+    price: "$59.49",
+    createdAt: "01.02.2023",
+    inStock: true,
+  },
+    {
+    id: 24,
+    img: "https://www.smartworld.it/wp-content/uploads/2019/09/High_Resolution_PNG-MX-Master-3-LEFT-GRAPHITE.png",
+    title: "Logitech My Master 3",
+    color: "black",
+    producer: "Logitech",
+    price: "$59.09",
+    createdAt: "01.02.2023",
+    inStock: true,
+  },
+    {
+    id: 25,
+    img: "https://www.smartworld.it/wp-content/uploads/2019/09/High_Resolution_PNG-MX-Master-3-LEFT-GRAPHITE.png",
+    title: "Logitech MX Master 53",
+    color: "black",
+    producer: "Logitech",
+    price: "$79.49",
+    createdAt: "01.02.2003",
+    inStock: true,
+  },
 ];
 
 
