@@ -149,6 +149,13 @@ export const topDealUsers = [
     email: "vishal@gmail.com",
     amount: "1.560",
   },
+  {
+    id: 8,
+    img: "https://images.pexels.com/photos/874158/pexels-photo-874158.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    username: "Vishal Ram",
+    email: "vishal87@gmail.com",
+    amount: "1.56",
+  },
 ];
 
 export const chartBoxUser = {
